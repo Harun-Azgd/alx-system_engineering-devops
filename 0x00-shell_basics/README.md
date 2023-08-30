@@ -6,3 +6,5 @@ ls -l > Display current directory contents in a long format
 ls -al > Display current directory contents, including hidden files Using the long format
 ls -lna > Display current directory contents in, Long format, with user and group IDs displayed numerically and hidden files
 mkdir > creates a directory
+mv > moves a file
+
