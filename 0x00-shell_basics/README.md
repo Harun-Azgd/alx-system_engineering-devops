@@ -12,3 +12,4 @@ rm -r > deletes a directory
 cd - > changes the working directory to the previous one
 ls -al . ../boot > lists all files in the current directory and the parent of the working directory and the /boot directory, in long format
 file > prints the type of the file
+ln -s > Create a symbolic link
