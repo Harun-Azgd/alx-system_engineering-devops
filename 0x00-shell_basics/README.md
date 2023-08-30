@@ -8,3 +8,5 @@ ls -lna > Display current directory contents in, Long format, with user and grou
 mkdir > creates a directory
 mv > moves a file
 rm > deletes a file
+rm -r > deletes a directory
+
