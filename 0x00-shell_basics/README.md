@@ -1,3 +1,4 @@
 #!/bin/bash
 pwd > prints the absolute path name of the current working directory
 ls >  lists  contents of a file or a directory
+cd ~user name > changes the working directory to the user’s home directory
