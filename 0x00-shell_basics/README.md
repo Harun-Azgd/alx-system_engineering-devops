@@ -9,4 +9,4 @@ mkdir > creates a directory
 mv > moves a file
 rm > deletes a file
 rm -r > deletes a directory
-cd .. > changes the working directory to the previous one
+cd - > changes the working directory to the previous one
