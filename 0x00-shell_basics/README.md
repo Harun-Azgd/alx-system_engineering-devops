@@ -7,4 +7,4 @@ ls -al > Display current directory contents, including hidden files Using the lo
 ls -lna > Display current directory contents in, Long format, with user and group IDs displayed numerically and hidden files
 mkdir > creates a directory
 mv > moves a file
-
+rm > deletes a file
