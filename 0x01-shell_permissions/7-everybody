@@ -1,2 +1,2 @@
-#!/bin/bad
+#!/bin/bash
 chmod +x hello
