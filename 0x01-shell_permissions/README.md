@@ -12,4 +12,4 @@ Group: no permission at all
 Other users: all the permissions
 chmod 753 > sets the mode of the file
 chmod --reference=olleh hello  > sets the mode of the file hello the same as olleh’s mode
-chmod -R +x  > adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+chmod -R +X > adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
