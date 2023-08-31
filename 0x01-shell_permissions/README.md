@@ -10,4 +10,4 @@ chmod +x > adds execution permission to the owner, the group owner and the other
 chmod 007 > sets the permission to Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
-
+chmod 753 > sets the mode of the file
