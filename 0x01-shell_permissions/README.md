@@ -6,3 +6,4 @@ sudo chown > changes the owner of the file
 touch > creates an empty file
 chmod u+x  > adds execute permission to the owner of the file
 chmod +114 > adds execute permission to the owner and the group owner, and read permission to other users, to a file
+chmod +x > adds execution permission to the owner, the group owner and the other users, to the file
