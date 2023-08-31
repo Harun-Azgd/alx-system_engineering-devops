@@ -16,3 +16,4 @@ chmod -R +X > adds execute permission to all subdirectories of the current direc
 mkdir -m 751 my dir > creates a directory called my dir with permissions 751 in the working directory
 chgrp > changes the group owner
 chown vincent:staff * > changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+chown -h vincent:staff _hello > changes the owner and the group owner of _hello to vincent and staff respectively
