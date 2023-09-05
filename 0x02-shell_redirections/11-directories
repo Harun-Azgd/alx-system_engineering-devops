@@ -1,0 +1,2 @@
+#!/bin/bash
+fimd . -type d -not -name | wC -l
