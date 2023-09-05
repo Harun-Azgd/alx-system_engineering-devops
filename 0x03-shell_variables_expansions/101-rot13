@@ -1,0 +1,3 @@
+#!/bin/bash
+encoded_text = rot13(input_text)
+decoded_text = rot13(encoded_text)

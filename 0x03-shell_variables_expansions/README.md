@@ -17,3 +17,5 @@ echo $((2#$BINARY)) > converts a number from base 2 to base 10
 echo {a..z}{a..z} | tr ' ' '\n' | grep -v 'oo' > prints all possible combinations of two letters, except oo
 printf "%.2f\n" $NUM >  prints a number with two decimal places, followed by a new line
 printf "%x\n" DECIMAL > converts a number from base 10 to base 16
+encoded_text = rot13(input_text) > encodes text using the rot13 encryption. Assume ASCII
+decoded_text = rot13(encoded_text) > decodes text using the rot13 encryption. Assume ASCII
